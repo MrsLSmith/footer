@@ -1,0 +1,15 @@
+header {
+  background-color: red;
+}
+
+section {
+  background-color: green;
+}
+
+footer {
+  background-color: orange;
+}
+
+.wrap {
+  min-height: calc(100vh - 36px);
+}
